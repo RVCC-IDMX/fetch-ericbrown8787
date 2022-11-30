@@ -15,7 +15,7 @@ h1 {
 }
 #posts {
   display: grid;
-  grid-template-columns: repeat(3,1fr);
+  grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
   text-align: center;
   width: 80vw;
@@ -23,7 +23,7 @@ h1 {
 }
 .post {
   background: #fff;
-  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .post img {
   width: 100%;
